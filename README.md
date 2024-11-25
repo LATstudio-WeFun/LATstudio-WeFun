@@ -64,8 +64,8 @@ Contributions are welcome! Here's how you can help:
 
 - [GitHub Profile](https://github.com/LATstudio-WeFun)
 - [Website](http://api-lat.org.christmas/)
-- [LinkedIn](https://www.linkedin.com/in/latstudio-wefun/)
-- [Twitter](https://twitter.com/LATstudio_WeFun)
+- [LinkedIn](https://www.linkedin.com/in/LATstudio)
+- [Twitter](https://twitter.com/LinAnTian)
 
 ---
 
