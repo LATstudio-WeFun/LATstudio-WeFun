@@ -13,19 +13,19 @@ Feel free to explore and contribute! 🚀
 
 Here are some of the programming languages and technologies I work with:
 
-- **PHP** 🖥️
-- **HTML5** 🌍
-- **CSS3** 🎨
-- **JavaScript** ⚡ (React.js, Node.js)
-- **Python** 🐍
-- **Java** ☕
-- **Lua** 🐢
-- **C++** 💻
-- **SQL** 🔢
-- **Go** 🏃‍♂️
-- **TypeScript** 📜
-- **Ruby** 💎
-- **Swift** 📱
+[![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)](https://www.php.net/)  
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)  
+[![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)](https://www.java.com/en/)  
+[![Lua](https://img.shields.io/badge/-Lua-2C2D72?logo=lua&logoColor=white)](https://www.lua.org/)  
+[![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)](https://isocpp.org/)  
+[![SQL](https://img.shields.io/badge/-SQL-00758F?logo=sqlite&logoColor=white)](https://www.sql.org/)  
+[![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)](https://golang.org/)  
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)  
+[![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white)](https://www.ruby-lang.org/en/)  
+[![Swift](https://img.shields.io/badge/-Swift-F05138?logo=swift&logoColor=white)](https://www.swift.org/)
 
 ---
 
@@ -36,13 +36,13 @@ Here are some of the cool projects I'm working on:
 ### 🎄 [**LAT  Bypass API**](http://api-lat.org.christmas/)
 This is my personal API project, which provides a set of tools and services. Check it out if you're into experimenting with APIs!
 
-- **Tech Stack**: PHP, MySQL, JavaScript, Node.js
+- **Tech Stack**: ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white), ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white), ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black), ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 - **Features**: RESTful API, Authentication, Data Processing
 
 ### 🖥️ **Awesome Web Tools**
 A collection of web-based tools for developers, including converters, calculators, and utilities.
 
-- **Tech Stack**: HTML, CSS, JavaScript
+- **Tech Stack**: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white), ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white), ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 - **Features**: Real-time conversion, interactive UI
 
 ---
