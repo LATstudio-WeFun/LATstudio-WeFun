@@ -3,9 +3,9 @@
 Hey there! 👋 Welcome to my GitHub! I'm a passionate developer, and here I share my open-source projects and experiments.  
 Feel free to explore and contribute! 🚀
 
-[![GitHub](https://img.shields.io/badge/GitHub-LATstudio--WeFun-blue?logo=github)](https://github.com/LATstudio-WeFun)
+[![GitHub](https://img.shields.io/badge/GitHub-LATstudio--WeFun-blue?logo=github&logoWidth=20)](https://github.com/LATstudio-WeFun)
 
-[![Website](https://img.shields.io/badge/Visit-My%20Website-orange?logo=world)](http://api-lat.org.christmas/)
+[![Website](https://img.shields.io/badge/Visit-My%20Website-orange?logo=world&logoWidth=20)](http://api-lat.org.christmas/)
 
 ---
 
@@ -13,19 +13,19 @@ Feel free to explore and contribute! 🚀
 
 Here are some of the programming languages and technologies I work with:
 
-[![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&logoWidth=50)](https://www.php.net/)  
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&logoWidth=50)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&logoWidth=50)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&logoWidth=50)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&logoWidth=50)](https://www.python.org/)  
-[![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&logoWidth=50)](https://www.java.com/en/)  
-[![Lua](https://img.shields.io/badge/-Lua-2C2D72?logo=lua&logoColor=white&logoWidth=50)](https://www.lua.org/)  
-[![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&logoWidth=50)](https://isocpp.org/)  
-[![SQL](https://img.shields.io/badge/-SQL-00758F?logo=sqlite&logoColor=white&logoWidth=50)](https://www.sql.org/)  
-[![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&logoWidth=50)](https://golang.org/)  
-[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&logoWidth=50)](https://www.typescriptlang.org/)  
-[![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white&logoWidth=50)](https://www.ruby-lang.org/en/)  
-[![Swift](https://img.shields.io/badge/-Swift-F05138?logo=swift&logoColor=white&logoWidth=50)](https://www.swift.org/)
+[![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&logoWidth=70)](https://www.php.net/)  
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&logoWidth=70)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&logoWidth=70)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&logoWidth=70)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&logoWidth=70)](https://www.python.org/)  
+[![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&logoWidth=70)](https://www.java.com/en/)  
+[![Lua](https://img.shields.io/badge/-Lua-2C2D72?logo=lua&logoColor=white&logoWidth=70)](https://www.lua.org/)  
+[![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&logoWidth=70)](https://isocpp.org/)  
+[![SQL](https://img.shields.io/badge/-SQL-00758F?logo=sqlite&logoColor=white&logoWidth=70)](https://www.sql.org/)  
+[![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&logoWidth=70)](https://golang.org/)  
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&logoWidth=70)](https://www.typescriptlang.org/)  
+[![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white&logoWidth=70)](https://www.ruby-lang.org/en/)  
+[![Swift](https://img.shields.io/badge/-Swift-F05138?logo=swift&logoColor=white&logoWidth=70)](https://www.swift.org/)
 
 ---
 
@@ -36,13 +36,13 @@ Here are some of the cool projects I'm working on:
 ### 🎄 [**LAT Bypass API**](http://api-lat.org.christmas/)
 This is my personal API project, which provides a set of tools and services. Check it out if you're into experimenting with APIs!
 
-- **Tech Stack**: ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&logoWidth=50), ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&logoWidth=50), ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&logoWidth=50), ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&logoWidth=50)
+- **Tech Stack**: ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&logoWidth=70), ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&logoWidth=70), ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&logoWidth=70), ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&logoWidth=70)
 - **Features**: Bypass API, Authentication, Data Processing
 
 ### 🖥️ **Awesome Web Tools**
 A collection of web-based tools for developers, including converters, calculators, and utilities.
 
-- **Tech Stack**: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&logoWidth=50), ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&logoWidth=50), ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&logoWidth=50)
+- **Tech Stack**: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&logoWidth=70), ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&logoWidth=70), ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&logoWidth=70)
 - **Features**: Real-time conversion, interactive UI
 
 ---
