@@ -1,4 +1,4 @@
-# Welcome to LATstudio-WeFun's GitHub! 🎉
+# Welcome to our Github - LATstudio! 🎉
 
 Hey there! 👋 Welcome to my GitHub! I'm a passionate developer, and here I share my open-source projects and experiments.  
 Feel free to explore and contribute! 🚀
