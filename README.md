@@ -37,7 +37,7 @@ Here are some of the cool projects I'm working on:
 This is my personal API project, which provides a set of tools and services. Check it out if you're into experimenting with APIs!
 
 - **Tech Stack**: ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white), ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white), ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black), ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-- **Features**: RESTful API, Authentication, Data Processing
+- **Features**: Bypass API, Authentication, Data Processing
 
 ### 🖥️ **Awesome Web Tools**
 A collection of web-based tools for developers, including converters, calculators, and utilities.
