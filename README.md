@@ -33,7 +33,7 @@ Here are some of the programming languages and technologies I work with:
 
 Here are some of the cool projects I'm working on:
 
-### 🎄 [**LAT  Bypass API**](http://lat.66n6.asia/)
+### 🎄 [**LAT  Bypass API**](https://bypass.ceo/)
 This is my personal API project, which provides a set of tools and services. Check it out if you're into experimenting with APIs!
 
 - **Tech Stack**: ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white), ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white), ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black), ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
@@ -63,7 +63,7 @@ Contributions are welcome! Here's how you can help:
 ## 📝 Let's Connect
 
 - [GitHub Profile](https://github.com/LATstudio-WeFun)
-- [Website](http://lat.66n6.asia/)
+- [Website](https://bypass.ceo/)
 - [LinkedIn](https://www.linkedin.com/in/LATstudio)
 - [Twitter](https://twitter.com/LinAnTian)
 
