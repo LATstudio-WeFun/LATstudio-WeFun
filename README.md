@@ -5,7 +5,7 @@ Feel free to explore and contribute! 🚀
 
 [![GitHub](https://img.shields.io/badge/GitHub-LATstudio--WeFun-blue?logo=github)](https://github.com/LATstudio-WeFun)
 
-[![Website](https://img.shields.io/badge/Visit-My%20Website-orange?logo=world)](http://lat.66n6.asia/)
+[![Website](https://img.shields.io/badge/Visit-My%20Website-orange?logo=world)](https://bypass.ceo/)
 
 ---
 
