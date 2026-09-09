@@ -1,149 +1,110 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFE4E1,DDA0DD,E6E6FA,B0E0E6&height=200&section=header&text=LAT+STUDIO&fontSize=42&fontColor=FFFFFF&font=Dancing+Script&stroke=FFFFFF&strokeWidth=2&strokeOpacity=0.5&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=candy&color=FFB6C1,DDA0DD,B0E0E6,FFF0F5,E6E6FA&height=220&section=header&text=LAT+STUDIO&fontSize=44&fontColor=333333&font=Indie+Flower&stroke=ffffff&strokeWidth=1&v=2011"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=26&duration=3000&pause=600&color=FF91A4&center=true&vCenter=true&width=480&lines=%E3%81%93%E3%82%93%E3%81%AA+Welcome+to+LAT+STUDIO;Peace+and+joy%2C+future+be+long;Full-Stack+Team"/>
+  <img src="https://komarev.com/ghpvc/?username=LATstudio-WeFun&label=Profile+Views&color=FFB6C1&style=flat-square&labelColor=fff0f5"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LATstudio-WeFun&label=Profile+Views&color=FFB6C1&style=for-the-badge&labelColor=FFF0F5"/>
-</p>
-
-<p align="center" style="font-size:16px; color:#8b5b6a;">
-  ~ Peace and joy, future be long ~
+  <img src="https://readme-typing-svg.demolab.com?font=Indie+Flower&weight=500&size=22&duration=4000&pause=500&color=d63384&center=true&vCenter=true&width=540&lines=LAT+STUDIO;Full-Stack+Team;Building+APIs+that+work;Peace+and+joy"/>
 </p>
 
 ---
 
-<p align="center" style="font-size:22px; font-weight:bold; color:#c97b9c;">
-  About LAT STUDIO
-</p>
-
-<table>
-  <tr>
-    <td width="60%" style="padding:20px;">
-      <p style="font-size:14px; line-height:1.8; color:#5b5b6b; margin:0;">
-        We are <b style="color:#FF91A4;">LAT STUDIO</b>, a full-stack team that builds APIs, tools, and scripts that save hours of manual work.<br/><br/>
-        <b style="color:#9B7BFF;">Node.js</b> and <b style="color:#7B8AFF;">Python</b> power our backend. No language wars — just shipping things we care about.
-      </p>
-    </td>
-    <td width="40%" style="padding:20px;">
-      <table>
-        <tr><td style="background-color:#FFF0F5; border:2px solid #FFB6C1; border-radius:12px; padding:10px 14px; font-size:13px; color:#a35c7a;">~ Name ~ &nbsp;LAT STUDIO</td></tr>
-        <tr><td style="background-color:#F5F0FF; border:2px solid #DDA0DD; border-radius:12px; padding:10px 14px; font-size:13px; color:#6b5b9e;">~ Role ~ &nbsp;Full-Stack Team</td></tr>
-        <tr><td style="background-color:#F0F8FF; border:2px solid #B0E0E6; border-radius:12px; padding:10px 14px; font-size:13px; color:#4a7fa3;">~ Mood ~ &nbsp;Peace &amp; Joy</td></tr>
-      </table>
-    </td>
-  </tr>
-</table>
+> *"Peace and joy, future be long."*
+> — LAT STUDIO
 
 ---
 
-<p align="center" style="font-size:22px; font-weight:bold; color:#c97b9c;">
-  Projects
-</p>
+## About Us
+
+We are **LAT STUDIO** — crafting APIs, tools, and scripts that save hours of tedious work. **Node.js** and **Python** power our backend.
+
+---
 
 <table>
   <tr>
-    <td width="50%" style="background-color:#FFF0F5; border:2px solid #FFB6C1; border-radius:18px; padding:28px;">
-      <h3 style="margin:0 0 12px; color:#FF5FA2;">BYPASS.LAT</h3>
-      <p style="font-size:13px; color:#7a5b66; line-height:1.6; margin:0 0 16px;">
-        Our flagship API platform — bypass, auth &amp; data pipelines, handled with zero fuss.
+    <td width="50%" style="background-color:#fff9ff; border:2px solid #ffd1dc; border-radius:16px; padding:24px;">
+      <h3 style="margin:0 0 12px; color:#c2185b;">BYPASS.LAT</h3>
+      <p style="font-size:14px; color:#555; line-height:1.6; margin:0 0 14px;">
+        Developer-focused API platform handling bypass, auth, and data pipelines with zero over-engineering.
       </p>
-      <img src="https://img.shields.io/badge/Node.js-FFB6C1?style=for-the-badge&logo=node.js&logoColor=white&labelColor=FFF0F5&color=FF91A4"/>
-      <img src="https://img.shields.io/badge/Python-DDA0DD?style=for-the-badge&logo=python&logoColor=white&labelColor=FFF0F5&color=BA8FBF"/>
-      <img src="https://img.shields.io/badge/MySQL-B0E0E6?style=for-the-badge&logo=mysql&logoColor=white&labelColor=FFF0F5&color=7BB8D1"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
       <br/><br/>
-      <a href="https://bypass.lat/" style="display:inline-block; background:#FF91A4; color:white; padding:10px 20px; border-radius:10px; text-decoration:none; font-size:13px; font-weight:600;">Visit Site</a>
+      <a href="https://bypass.lat/" style="display:inline-block; background:#ff69b4; color:white; padding:8px 18px; border-radius:10px; text-decoration:none; font-size:14px; font-weight:600;">Visit Site</a>
     </td>
-    <td width="50%" style="background-color:#F5F0FF; border:2px solid #DDA0DD; border-radius:18px; padding:28px;">
-      <h3 style="margin:0 0 12px; color:#BA8FBF;">Web Tools</h3>
-      <p style="font-size:13px; color:#5b557a; line-height:1.6; margin:0 0 16px;">
-        Everyday utilities we actually use — converters, text tools, debug panels.
+    <td width="50%" style="background-color:#f0f8ff; border:2px solid #aecbfa; border-radius:16px; padding:24px;">
+      <h3 style="margin:0 0 12px; color:#1976d2;">Web Tools</h3>
+      <p style="font-size:14px; color:#555; line-height:1.6; margin:0 0 14px;">
+        Everyday utilities: format converters, text processors, debug panels. Tools we actually use.
       </p>
-      <img src="https://img.shields.io/badge/HTML5-FFB6C1?style=for-the-badge&logo=html5&logoColor=white&labelColor=F5F0FF&color=FF91A4"/>
-      <img src="https://img.shields.io/badge/CSS3-B0E0E6?style=for-the-badge&logo=css3&logoColor=white&labelColor=F5F0FF&color=7BB8D1"/>
-      <img src="https://img.shields.io/badge/JavaScript-FFE08A?style=for-the-badge&logo=javascript&logoColor=white&labelColor=F5F0FF&color=FFC94D"/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      <br/><br/>
+      <a href="#" style="display:inline-block; background:#7986cb; color:white; padding:8px 18px; border-radius:10px; text-decoration:none; font-size:14px; font-weight:600;">Explore</a>
     </td>
   </tr>
 </table>
 
 ---
 
-<p align="center" style="font-size:22px; font-weight:bold; color:#c97b9c;">
-  Tech Stack
+## GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=LATstudio-WeFun&show_icons=true&theme=radical&hide_border=true&bg_color=fff0f5&title_color=d63384&icon_color=c9b0ff&text_color=555&border_radius=16"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=LATstudio-WeFun&theme=radical&hide_border=true&background=fff0f5&stroke=ffb6c1&ring=d63384&fire=FF6B6B&currStreakLabel=d63384&sideLabels=c9b0ff&border_radius=16"/>
 </p>
 
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,python,js,ts,react,vue,html,css,mysql,postgres,redis,docker,linux,git&theme=light&perline=7"/></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LATstudio-WeFun&layout=compact&theme=radical&hide_border=true&bg_color=fff0f5&title_color=d63384&text_color=555&border_radius=16"/>
 </p>
 
 ---
 
-<p align="center" style="font-size:22px; font-weight:bold; color:#c97b9c;">
-  Stats
-</p>
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=LATstudio-WeFun&show_icons=true&theme=radical&hide_border=true&bg_color=FFF0F5&title_color=FF91A4&icon_color=BA8FBF&text_color=7a5b66&border_radius=16"/>
-    </td>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=LATstudio-WeFun&theme=radical&hide_border=true&background=FFF0F5&stroke=FFB6C1&ring=FF91A4&fire=FFB340&currStreakLabel=FF91A4&sideLabels=BA8FBF&border_radius=16"/>
-    </td>
-  </tr>
-</table>
+## Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LATstudio-WeFun&layout=compact&hide_border=true&bg_color=FFF0F5&title_color=FF91A4&text_color=7a5b66&border_radius=16"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LATstudio-WeFun&theme=dracula&no-frame=true&column=7&margin-w=8"/>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,python,js,ts,react,mysql,postgres,docker&theme=light&perline=8"/></a>
 </p>
 
 ---
 
-<p align="center" style="font-size:22px; font-weight:bold; color:#c97b9c;">
-  Activity
-</p>
+## Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LATstudio-WeFun&theme=tokyonight&hide_border=true&radius=10" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LATstudio-WeFun&theme=tokyonight&hide_border=true&radius=10" width="95%"/>
 </p>
 
 ---
 
-<p align="center" style="font-size:22px; font-weight:bold; color:#c97b9c;">
-  Snake
-</p>
+## Contribution Snake
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LATstudio-WeFun/LATstudio-WeFun/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LATstudio-WeFun/LATstudio-WeFun/output/github-contribution-grid-snake.svg">
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/LATstudio-WeFun/LATstudio-WeFun/output/github-contribution-grid-snake.svg" width="90%"/>
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/LATstudio-WeFun/LATstudio-WeFun/output/github-contribution-grid-snake.svg"/>
   </picture>
 </p>
 
 ---
 
-<p align="center" style="font-size:22px; font-weight:bold; color:#c97b9c;">
-  Find Us
+## Find Us
+
+<p align="center">
+  <a href="https://github.com/LATstudio-WeFun"><img src="https://img.shields.io/badge/GitHub-LATstudio--WeFun-24292e?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://bypass.lat/"><img src="https://img.shields.io/badge/Website-bypass.lat-FF69B4?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/LATstudio"><img src="https://img.shields.io/badge/LinkedIn-LATstudio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/LATstudio-WeFun"><img src="https://img.shields.io/badge/GitHub-FFB6C1?style=for-the-badge&logo=github&logoColor=white&labelColor=FFF0F5&color=FF91A4"/></a>
-  <a href="https://bypass.lat/"><img src="https://img.shields.io/badge/Website-DDA0DD?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=FFF0F5&color=BA8FBF"/></a>
-  <a href="https://www.linkedin.com/in/LATstudio"><img src="https://img.shields.io/badge/LinkedIn-B0E0E6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FFF0F5&color=7BB8D1"/></a>
+  <img src="https://capsule-render.vercel.app/api?type=candy&color=FFB6C1,DDA0DD,B0E0E6,FFF0F5,E6E6FA&height=80&section=footer&text=LAT+STUDIO&fontSize=18&font=Indie+Flower&fontColor=ffffff"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFE4E1,DDA0DD,E6E6FA,B0E0E6&height=120&section=footer&text=See+you+again&fontSize=22&fontColor=FFFFFF&font=Dancing+Script"/>
-</p>
-
-<p align="center" style="font-size:12px; color:#8b5b6a;">
-  ~ LAT STUDIO ~ Peace and joy, future be long ~
+  <sub>LAT STUDIO · Peace and joy, future be long · by you, for you</sub>
 </p>
