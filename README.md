@@ -31,45 +31,21 @@
 
 <table>
   <tr>
-    <td width="50%" style="background-color:#FFF0F5; border:2px solid #FFB6C1; border-radius:20px; padding:26px;">
-      <h3 style="margin:0 0 12px; color:#FF69B4; font-size:19px;">❀ BYPASS.Source</h3>
-      <p style="font-size:14px; color:#c65b83; line-height:1.7; margin:0 0 16px;">
-        Backend source for BYPASS.LAT platform — APIs, data pipelines, auth systems.
+    <td align="center" style="background-color:#FFF0F5; border:2px solid #FFB6C1; border-radius:22px; padding:32px;">
+      <h3 style="margin:0 0 14px; color:#FF69B4; font-size:22px;">❀ BYPASS.LAT</h3>
+      <p style="font-size:14px; color:#c65b83; line-height:1.8; margin:0 0 16px; max-width:620px;">
+        Our flagship API platform — bypass, auth, and data pipelines.<br/>
+        Node.js &amp; Python backend, MySQL for persistence, built for real projects.
       </p>
-      <img src="https://img.shields.io/badge/Node.js-FFB6C1?style=flat-square&logo=node.js&logoColor=fff&color=FF91A4"/>
-      <img src="https://img.shields.io/badge/Python-DDA0DD?style=flat-square&logo=python&logoColor=fff&color=BA68C8"/>
-      <br/><br/>
-      <a href="https://github.com/LATstudio-WeFun/BYPASS-Source" style="display:inline-block; background:#FF91A4; color:#fff; padding:8px 18px; border-radius:20px; text-decoration:none; font-size:13px; font-weight:600;">View Project</a>
-    </td>
-    <td width="50%" style="background-color:#F3EEFF; border:2px solid #DDA0DD; border-radius:20px; padding:26px;">
-      <h3 style="margin:0 0 12px; color:#BA68C8; font-size:19px;">❀ BYPASS.CEO</h3>
-      <p style="font-size:14px; color:#9b59b6; line-height:1.7; margin:0 0 16px;">
-        Frontend dashboard and management interface for BYPASS.LAT.
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-FFB6C1?style=for-the-badge&logo=node.js&logoColor=fff&color=FF91A4"/>
+        <img src="https://img.shields.io/badge/Python-DDA0DD?style=for-the-badge&logo=python&logoColor=fff&color=BA68C8"/>
+        <img src="https://img.shields.io/badge/MySQL-B0E0E6?style=for-the-badge&logo=mysql&logoColor=fff&color=7BB8D1"/>
       </p>
-      <img src="https://img.shields.io/badge/TypeScript-DDA0DD?style=flat-square&logo=typescript&logoColor=fff&color=BA68C8"/>
-      <img src="https://img.shields.io/badge/Vue.js-B0E0E6?style=flat-square&logo=vuedotjs&logoColor=fff&color=7BB8D1"/>
-      <br/><br/>
-      <a href="https://github.com/LATstudio-WeFun/BYPASS.CEO" style="display:inline-block; background:#BA68C8; color:#fff; padding:8px 18px; border-radius:20px; text-decoration:none; font-size:13px; font-weight:600;">View Project</a>
-    </td>
-  </tr>
-  <tr><td colspan="2" style="height:16px;"></td></tr>
-  <tr>
-    <td width="50%" style="background-color:#EAF6FF; border:2px solid #B0E0E6; border-radius:20px; padding:26px;">
-      <h3 style="margin:0 0 12px; color:#5BA3D0; font-size:19px;">❀ ccat.lol</h3>
-      <p style="font-size:14px; color:#4a8bad; line-height:1.7; margin:0 0 16px;">
-        Fun web tool — quick category and tool management platform.
-      </p>
-      <img src="https://img.shields.io/badge/React-B0E0E6?style=flat-square&logo=react&logoColor=fff&color=7BB8D1"/>
-      <img src="https://img.shields.io/badge/Web-FFE0B3?style=flat-square&color=FFB340"/>
-      <br/><br/>
-      <a href="https://github.com/LATstudio-WeFun/ccat.lol" style="display:inline-block; background:#7BB8D1; color:#fff; padding:8px 18px; border-radius:20px; text-decoration:none; font-size:13px; font-weight:600;">View Project</a>
-    </td>
-    <td width="50%" style="background-color:#FFF4E0; border:2px solid #FFD8A8; border-radius:20px; padding:26px;">
-      <h3 style="margin:0 0 12px; color:#E8923A; font-size:19px;">❀ Coming Soon</h3>
-      <p style="font-size:14px; color:#c98a4b; line-height:1.7; margin:0 0 16px;">
-        More repositories under development. Stay tuned for updates.
-      </p>
-      <img src="https://img.shields.io/badge/Soon-FFD8A8?style=flat-square&color=FFB340"/>
+      <br/>
+      <a href="https://bypass.lat" style="display:inline-block; background:#FF91A4; color:#fff; padding:11px 26px; border-radius:24px; text-decoration:none; font-size:14px; font-weight:600;">Visit Site</a>
+      &nbsp;
+      <a href="https://github.com/LATstudio-WeFun/BYPASS-Source" style="display:inline-block; background:#BA68C8; color:#fff; padding:11px 26px; border-radius:24px; text-decoration:none; font-size:14px; font-weight:600;">Source</a>
     </td>
   </tr>
 </table>
@@ -89,8 +65,12 @@
 ## ✿ GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=LATstudio-WeFun&show_icons=true&hide_border=true&bg_color=FFF0F5&title_color=FF69B4&icon_color=BA68C8&text_color=c65b83&border_color=FFB6C1&rank_icon=github"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LATstudio-WeFun&layout=compact&hide_border=true&bg_color=F3EEFF&title_color=BA68C8&text_color=9b59b6&border_color=DDA0DD"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=LATstudio-WeFun&show_icons=true&hide_border=true&bg_color=FFF0F5&title_color=FF69B4&icon_color=BA68C8&text_color=c65b83&border_color=FFB6C1&rank_icon=github&include_all_commits=true&count_private=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LATstudio-WeFun&layout=donut&hide_border=true&bg_color=F3EEFF&title_color=BA68C8&text_color=c65b83&border_color=DDA0DD&langs_count=8"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LATstudio-WeFun&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=6"/>
 </p>
 
 ---
@@ -98,7 +78,7 @@
 ## ✿ Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LATstudio-WeFun&bg_color=FFF0F5&color=c65b83&line=FF69B4&point=BA68C8&area=true&area_color=FFB6C1&title_color=FF69B4&hide_border=true&border_color=FFB6C1" width="92%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LATstudio-WeFun&theme=github-compact&hide_border=true" width="92%"/>
 </p>
 
 ---
