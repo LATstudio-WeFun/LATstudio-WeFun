@@ -72,7 +72,7 @@
       <img src="https://img.shields.io/github/followers/LATstudio-WeFun?label=Followers&style=for-the-badge&color=FF91A4&logo=github&logoColor=white"/>
       <img src="https://img.shields.io/badge/Public_Repos-10-DDA0DD?style=for-the-badge&logo=bookstack&logoColor=white&color=BA68C8"/>
       <img src="https://img.shields.io/badge/Team-LAT_STUDIO-B0E0E6?style=for-the-badge&logo=googlegroup&logoColor=white&color=7BB8D1"/>
-      <img src="https://img.shields.io/badge/Since-2024-FFB6C1?style=for-the-badge&logo=calendar&logoColor=white&color=FF91A4"/>
+      <img src="https://img.shields.io/badge/Since-2022-FFB6C1?style=for-the-badge&logo=calendar&logoColor=white&color=FF91A4"/>
     </td>
   </tr>
 </table>
