@@ -1,79 +1,145 @@
-# Welcome To Our Github - LATstudio! 🎉
+<div align="center">
 
-Hey there! 👋 Welcome to our Github, We Are Developers Who Love Programming, Welcome To use Our Projects - LATstudio.  
-Feel free to explore and contribute! 🚀
+<a href="https://bypass.lat/">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:1a1a4e,100:24243e&height=220&section=header&text=LAT·STUDIO&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Team%20·%20APIs%20·%20Tools%20·%20Things%20That%20Work&descSize=14&descAlignY=55&descAlign=50&animation=twinkling"/>
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-LATstudio--WeFun-blue?logo=github)](https://github.com/LATstudio-WeFun)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D2FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;API+Engineer;Node.js+%2B+Python+Backend;Building+Things+That+Just+Work)](https://git.io/typing-svg)
 
-[![Website](https://img.shields.io/badge/Visit-My%20Website-orange?logo=world)](https://bypass.ceo/)
+<br/>
 
----
+<a href="https://github.com/LATstudio-WeFun">
+<img src="https://komarev.com/ghpvc/?username=LATstudio-WeFun&label=Profile%20Views&color=00d2ff&style=flat-square&labelColor=0d1117"/>
+</a>
 
-## 🌐 Technologies I Love
+<br/>
 
-Here are some of the programming languages and technologies I work with:
+<a href="https://github.com/LATstudio-WeFun">
+<img src="https://github-profile-trophy.vercel.app/?username=LATstudio-WeFun&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8"/>
+</a>
 
-[![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)](https://www.php.net/)  
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)  
-[![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)](https://www.java.com/en/)  
-[![Lua](https://img.shields.io/badge/-Lua-2C2D72?logo=lua&logoColor=white)](https://www.lua.org/)  
-[![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)](https://isocpp.org/)  
-[![SQL](https://img.shields.io/badge/-SQL-00758F?logo=sqlite&logoColor=white)](https://www.sql.org/)  
-[![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)](https://golang.org/)  
-[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)  
-[![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white)](https://www.ruby-lang.org/en/)  
-[![Swift](https://img.shields.io/badge/-Swift-F05138?logo=swift&logoColor=white)](https://www.swift.org/)
+</div>
 
 ---
 
-## 🚀 Projects
+<table align="center">
+<tr>
+<td width="50%" align="center">
 
-Here are some of the cool projects I'm working on:
+<a href="https://bypass.lat/">
+<img src="https://github-readme-stats.vercel.app/api?username=LATstudio-WeFun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+</a>
 
-### 🎄 [**BYPASS.LAT**](https://bypass.lat/)
-This is my personal API project, which provides a set of tools and services. Check it out if you're into experimenting with APIs!
+</td>
+<td width="50%" align="center">
 
-- **Tech Stack**: ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white), ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white), ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black), ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-- **Features**: Bypass API, Authentication, Data Processing
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LATstudio-WeFun&theme=tokyonight&hide_border=true"/>
 
-### 🖥️ **Awesome Web Tools**
-A collection of web-based tools for developers, including converters, calculators, and utilities.
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
 
-- **Tech Stack**: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white), ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white), ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-- **Features**: Real-time conversion, interactive UI
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LATstudio-WeFun&layout=compact&theme=tokyonight&hide_border=true"/>
 
----
+</td>
+<td width="50%" align="center">
 
-## 💡 How to Contribute
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LATstudio-WeFun&theme=tokyo-night&hide_border=true"/>
 
-Contributions are welcome! Here's how you can help:
-
-1. Fork this repository 🍴
-2. Clone it to your local machine 🖥️
-3. Create a new branch (git checkout -b feature/your-feature-name) 🌱
-4. Make changes and commit them (git commit -am 'Add new feature') ✨
-5. Push to the remote repository (git push origin feature/your-feature-name) 🚀
-6. Submit a pull request 🙌
-
----
-
-## 📝 Let's Connect
-
-- [GitHub Profile](https://github.com/LATstudio-WeFun)
-- [Website](https://bypass.lat/)
-- [LinkedIn](https://www.linkedin.com/in/LATstudio)
-- [Twitter](https://twitter.com/LinAnTian)
+</td>
+</tr>
+</table>
 
 ---
 
-## 💖 Support My Work
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
 
-If you like what I do, please consider starring the repository! It means a lot! ⭐️  
-If you have any questions or suggestions, feel free to open an issue!
+### **BYPASS.LAT** [`link`](https://bypass.lat/)
+
+A developer-facing API platform built with **Node.js** and **Python**. Handles bypass, authentication, and data pipelines — the kind of stuff that keeps services running behind the scenes.
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white&labelColor=0d1117)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0d1117)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white&labelColor=0d1117)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=0d1117)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=0d1117)
+
+</td>
+<td width="50%" valign="top">
+
+### **Awesome Web Tools**
+
+Internal utilities we actually use — format converters, text processors, debug panels. Built to solve our own problems.
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=0d1117)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=0d1117)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=0d1117)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=0d1117)
+
+</td>
+</tr>
+</table>
 
 ---
 
-Happy coding and creating! Let’s make something awesome together! 🚀🎉
+<div align="center">
+
+What we ship with — not a wishlist.
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="45"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="45"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="45"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="45"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="45"/>
+
+</div>
+
+---
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-LATstudio--WeFun-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LATstudio-WeFun)
+[![Website](https://img.shields.io/badge/Website-bypass.lat-0070f3?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bypass.lat/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-LATstudio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/LATstudio)
+
+<br/>
+<br/>
+
+![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+</div>
