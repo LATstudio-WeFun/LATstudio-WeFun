@@ -1,145 +1,149 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFE4E1,DDA0DD,E6E6FA,B0E0E6&height=200&section=header&text=LAT+STUDIO&fontSize=42&fontColor=FFFFFF&font=Dancing+Script&stroke=FFFFFF&strokeWidth=2&strokeOpacity=0.5&animation=fadeIn" width="100%"/>
+</p>
 
-<a href="https://bypass.lat/">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:1a1a4e,100:24243e&height=220&section=header&text=LAT·STUDIO&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Team%20·%20APIs%20·%20Tools%20·%20Things%20That%20Work&descSize=14&descAlignY=55&descAlign=50&animation=twinkling"/>
-</a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=26&duration=3000&pause=600&color=FF91A4&center=true&vCenter=true&width=480&lines=%E3%81%93%E3%82%93%E3%81%AA+Welcome+to+LAT+STUDIO;Peace+and+joy%2C+future+be+long;Full-Stack+Team"/>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D2FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;API+Engineer;Node.js+%2B+Python+Backend;Building+Things+That+Just+Work)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LATstudio-WeFun&label=Profile+Views&color=FFB6C1&style=for-the-badge&labelColor=FFF0F5"/>
+</p>
 
-<br/>
-
-<a href="https://github.com/LATstudio-WeFun">
-<img src="https://komarev.com/ghpvc/?username=LATstudio-WeFun&label=Profile%20Views&color=00d2ff&style=flat-square&labelColor=0d1117"/>
-</a>
-
-<br/>
-
-<a href="https://github.com/LATstudio-WeFun">
-<img src="https://github-profile-trophy.vercel.app/?username=LATstudio-WeFun&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8"/>
-</a>
-
-</div>
+<p align="center" style="font-size:16px; color:#8b5b6a;">
+  ~ Peace and joy, future be long ~
+</p>
 
 ---
 
-<table align="center">
-<tr>
-<td width="50%" align="center">
+<p align="center" style="font-size:22px; font-weight:bold; color:#c97b9c;">
+  About LAT STUDIO
+</p>
 
-<a href="https://bypass.lat/">
-<img src="https://github-readme-stats.vercel.app/api?username=LATstudio-WeFun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-</a>
-
-</td>
-<td width="50%" align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LATstudio-WeFun&theme=tokyonight&hide_border=true"/>
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LATstudio-WeFun&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</td>
-<td width="50%" align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LATstudio-WeFun&theme=tokyo-night&hide_border=true"/>
-
-</td>
-</tr>
+<table>
+  <tr>
+    <td width="60%" style="padding:20px;">
+      <p style="font-size:14px; line-height:1.8; color:#5b5b6b; margin:0;">
+        We are <b style="color:#FF91A4;">LAT STUDIO</b>, a full-stack team that builds APIs, tools, and scripts that save hours of manual work.<br/><br/>
+        <b style="color:#9B7BFF;">Node.js</b> and <b style="color:#7B8AFF;">Python</b> power our backend. No language wars — just shipping things we care about.
+      </p>
+    </td>
+    <td width="40%" style="padding:20px;">
+      <table>
+        <tr><td style="background-color:#FFF0F5; border:2px solid #FFB6C1; border-radius:12px; padding:10px 14px; font-size:13px; color:#a35c7a;">~ Name ~ &nbsp;LAT STUDIO</td></tr>
+        <tr><td style="background-color:#F5F0FF; border:2px solid #DDA0DD; border-radius:12px; padding:10px 14px; font-size:13px; color:#6b5b9e;">~ Role ~ &nbsp;Full-Stack Team</td></tr>
+        <tr><td style="background-color:#F0F8FF; border:2px solid #B0E0E6; border-radius:12px; padding:10px 14px; font-size:13px; color:#4a7fa3;">~ Mood ~ &nbsp;Peace &amp; Joy</td></tr>
+      </table>
+    </td>
+  </tr>
 </table>
 
 ---
 
-<table align="center" width="100%">
-<tr>
-<td width="50%" valign="top">
+<p align="center" style="font-size:22px; font-weight:bold; color:#c97b9c;">
+  Projects
+</p>
 
-### **BYPASS.LAT** [`link`](https://bypass.lat/)
-
-A developer-facing API platform built with **Node.js** and **Python**. Handles bypass, authentication, and data pipelines — the kind of stuff that keeps services running behind the scenes.
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white&labelColor=0d1117)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0d1117)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white&labelColor=0d1117)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=0d1117)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=0d1117)
-
-</td>
-<td width="50%" valign="top">
-
-### **Awesome Web Tools**
-
-Internal utilities we actually use — format converters, text processors, debug panels. Built to solve our own problems.
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=0d1117)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=0d1117)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=0d1117)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=0d1117)
-
-</td>
-</tr>
+<table>
+  <tr>
+    <td width="50%" style="background-color:#FFF0F5; border:2px solid #FFB6C1; border-radius:18px; padding:28px;">
+      <h3 style="margin:0 0 12px; color:#FF5FA2;">BYPASS.LAT</h3>
+      <p style="font-size:13px; color:#7a5b66; line-height:1.6; margin:0 0 16px;">
+        Our flagship API platform — bypass, auth &amp; data pipelines, handled with zero fuss.
+      </p>
+      <img src="https://img.shields.io/badge/Node.js-FFB6C1?style=for-the-badge&logo=node.js&logoColor=white&labelColor=FFF0F5&color=FF91A4"/>
+      <img src="https://img.shields.io/badge/Python-DDA0DD?style=for-the-badge&logo=python&logoColor=white&labelColor=FFF0F5&color=BA8FBF"/>
+      <img src="https://img.shields.io/badge/MySQL-B0E0E6?style=for-the-badge&logo=mysql&logoColor=white&labelColor=FFF0F5&color=7BB8D1"/>
+      <br/><br/>
+      <a href="https://bypass.lat/" style="display:inline-block; background:#FF91A4; color:white; padding:10px 20px; border-radius:10px; text-decoration:none; font-size:13px; font-weight:600;">Visit Site</a>
+    </td>
+    <td width="50%" style="background-color:#F5F0FF; border:2px solid #DDA0DD; border-radius:18px; padding:28px;">
+      <h3 style="margin:0 0 12px; color:#BA8FBF;">Web Tools</h3>
+      <p style="font-size:13px; color:#5b557a; line-height:1.6; margin:0 0 16px;">
+        Everyday utilities we actually use — converters, text tools, debug panels.
+      </p>
+      <img src="https://img.shields.io/badge/HTML5-FFB6C1?style=for-the-badge&logo=html5&logoColor=white&labelColor=F5F0FF&color=FF91A4"/>
+      <img src="https://img.shields.io/badge/CSS3-B0E0E6?style=for-the-badge&logo=css3&logoColor=white&labelColor=F5F0FF&color=7BB8D1"/>
+      <img src="https://img.shields.io/badge/JavaScript-FFE08A?style=for-the-badge&logo=javascript&logoColor=white&labelColor=F5F0FF&color=FFC94D"/>
+    </td>
+  </tr>
 </table>
 
 ---
 
-<div align="center">
+<p align="center" style="font-size:22px; font-weight:bold; color:#c97b9c;">
+  Tech Stack
+</p>
 
-What we ship with — not a wishlist.
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="45"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="45"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="45"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="45"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="45"/>
-
-</div>
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,python,js,ts,react,vue,html,css,mysql,postgres,redis,docker,linux,git&theme=light&perline=7"/></a>
+</p>
 
 ---
 
-<div align="center">
+<p align="center" style="font-size:22px; font-weight:bold; color:#c97b9c;">
+  Stats
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-LATstudio--WeFun-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LATstudio-WeFun)
-[![Website](https://img.shields.io/badge/Website-bypass.lat-0070f3?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bypass.lat/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-LATstudio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/LATstudio)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=LATstudio-WeFun&show_icons=true&theme=radical&hide_border=true&bg_color=FFF0F5&title_color=FF91A4&icon_color=BA8FBF&text_color=7a5b66&border_radius=16"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=LATstudio-WeFun&theme=radical&hide_border=true&background=FFF0F5&stroke=FFB6C1&ring=FF91A4&fire=FFB340&currStreakLabel=FF91A4&sideLabels=BA8FBF&border_radius=16"/>
+    </td>
+  </tr>
+</table>
 
-<br/>
-<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LATstudio-WeFun&layout=compact&hide_border=true&bg_color=FFF0F5&title_color=FF91A4&text_color=7a5b66&border_radius=16"/>
+</p>
 
-![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LATstudio-WeFun&theme=dracula&no-frame=true&column=7&margin-w=8"/>
+</p>
 
-</div>
+---
+
+<p align="center" style="font-size:22px; font-weight:bold; color:#c97b9c;">
+  Activity
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LATstudio-WeFun&theme=tokyonight&hide_border=true&radius=10" width="90%"/>
+</p>
+
+---
+
+<p align="center" style="font-size:22px; font-weight:bold; color:#c97b9c;">
+  Snake
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LATstudio-WeFun/LATstudio-WeFun/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LATstudio-WeFun/LATstudio-WeFun/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/LATstudio-WeFun/LATstudio-WeFun/output/github-contribution-grid-snake.svg" width="90%"/>
+  </picture>
+</p>
+
+---
+
+<p align="center" style="font-size:22px; font-weight:bold; color:#c97b9c;">
+  Find Us
+</p>
+
+<p align="center">
+  <a href="https://github.com/LATstudio-WeFun"><img src="https://img.shields.io/badge/GitHub-FFB6C1?style=for-the-badge&logo=github&logoColor=white&labelColor=FFF0F5&color=FF91A4"/></a>
+  <a href="https://bypass.lat/"><img src="https://img.shields.io/badge/Website-DDA0DD?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=FFF0F5&color=BA8FBF"/></a>
+  <a href="https://www.linkedin.com/in/LATstudio"><img src="https://img.shields.io/badge/LinkedIn-B0E0E6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FFF0F5&color=7BB8D1"/></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFE4E1,DDA0DD,E6E6FA,B0E0E6&height=120&section=footer&text=See+you+again&fontSize=22&fontColor=FFFFFF&font=Dancing+Script"/>
+</p>
+
+<p align="center" style="font-size:12px; color:#8b5b6a;">
+  ~ LAT STUDIO ~ Peace and joy, future be long ~
+</p>
