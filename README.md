@@ -29,23 +29,25 @@
 
 ## ✿ Projects
 
-<table>
+<table width="100%">
   <tr>
     <td align="center" style="background-color:#FFF0F5; border:2px solid #FFB6C1; border-radius:22px; padding:32px;">
-      <h3 style="margin:0 0 14px; color:#FF69B4; font-size:22px;">❀ BYPASS.LAT</h3>
-      <p style="font-size:14px; color:#c65b83; line-height:1.8; margin:0 0 16px; max-width:620px;">
+      <h3 align="center" style="margin:0 0 14px; color:#FF69B4; font-size:22px; text-align:center;">❀ BYPASS.LAT</h3>
+      <p align="center" style="font-size:14px; color:#c65b83; line-height:1.8; margin:0 auto 16px; text-align:center;">
         Our flagship API platform — bypass, auth, and data pipelines.<br/>
         Node.js &amp; Python backend, MySQL for persistence, built for real projects.
       </p>
-      <p>
+      <p align="center" style="text-align:center;">
         <img src="https://img.shields.io/badge/Node.js-FFB6C1?style=for-the-badge&logo=node.js&logoColor=fff&color=FF91A4"/>
         <img src="https://img.shields.io/badge/Python-DDA0DD?style=for-the-badge&logo=python&logoColor=fff&color=BA68C8"/>
         <img src="https://img.shields.io/badge/MySQL-B0E0E6?style=for-the-badge&logo=mysql&logoColor=fff&color=7BB8D1"/>
       </p>
-      <br/>
-      <a href="https://bypass.lat" style="display:inline-block; background:#FF91A4; color:#fff; padding:11px 26px; border-radius:24px; text-decoration:none; font-size:14px; font-weight:600;">Visit Site</a>
-      &nbsp;
-      <a href="https://github.com/LATstudio-WeFun/BYPASS-Source" style="display:inline-block; background:#BA68C8; color:#fff; padding:11px 26px; border-radius:24px; text-decoration:none; font-size:14px; font-weight:600;">Source</a>
+      <p align="center" style="text-align:center;">
+        <br/>
+        <a href="https://bypass.lat" style="display:inline-block; background:#FF91A4; color:#fff; padding:11px 26px; border-radius:24px; text-decoration:none; font-size:14px; font-weight:600;">Visit Site</a>
+        &nbsp;&nbsp;
+        <a href="https://github.com/LATstudio-WeFun/BYPASS-Source" style="display:inline-block; background:#BA68C8; color:#fff; padding:11px 26px; border-radius:24px; text-decoration:none; font-size:14px; font-weight:600;">Source</a>
+      </p>
     </td>
   </tr>
 </table>
@@ -62,24 +64,65 @@
 
 ---
 
-## ✿ GitHub Stats
+## ✿ Profile Stats
+
+<table width="100%">
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/github/followers/LATstudio-WeFun?label=Followers&style=for-the-badge&color=FF91A4&logo=github&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Public_Repos-10-DDA0DD?style=for-the-badge&logo=bookstack&logoColor=white&color=BA68C8"/>
+      <img src="https://img.shields.io/badge/Team-LAT_STUDIO-B0E0E6?style=for-the-badge&logo=googlegroup&logoColor=white&color=7BB8D1"/>
+      <img src="https://img.shields.io/badge/Since-2024-FFB6C1?style=for-the-badge&logo=calendar&logoColor=white&color=FF91A4"/>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=LATstudio-WeFun&show_icons=true&hide_border=true&bg_color=FFF0F5&title_color=FF69B4&icon_color=BA68C8&text_color=c65b83&border_color=FFB6C1&rank_icon=github&include_all_commits=true&count_private=true"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LATstudio-WeFun&layout=donut&hide_border=true&bg_color=F3EEFF&title_color=BA68C8&text_color=c65b83&border_color=DDA0DD&langs_count=8"/>
+  <sub style="color:#d76a8f;">Achievements</sub>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LATstudio-WeFun&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=6"/>
+  <img src="https://img.shields.io/badge/★_Star_Collector-FFB6C1?style=flat-square&color=FF91A4"/>
+  <img src="https://img.shields.io/badge/❀_Repo_Keeper-DDA0DD?style=flat-square&color=BA68C8"/>
+  <img src="https://img.shields.io/badge/⚑_First_Push-B0E0E6?style=flat-square&color=7BB8D1"/>
+  <img src="https://img.shields.io/badge/♥_Shipper-FFC0CB?style=flat-square&color=F48FB1"/>
 </p>
 
 ---
 
-## ✿ Activity
+## ✿ Currently
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LATstudio-WeFun&theme=github-compact&hide_border=true" width="92%"/>
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top" style="background-color:#FFF0F5; border:2px solid #FFB6C1; border-radius:18px; padding:22px;">
+      <p style="margin:0 0 8px; color:#FF69B4; font-weight:600; text-align:center;">❀ Building</p>
+      <p align="center" style="font-size:13px; color:#c65b83; margin:0; text-align:center; line-height:1.6;">
+        The BYPASS.LAT API platform<br/>and internal dev tooling
+      </p>
+    </td>
+    <td width="50%" valign="top" style="background-color:#F3EEFF; border:2px solid #DDA0DD; border-radius:18px; padding:22px;">
+      <p style="margin:0 0 8px; color:#BA68C8; font-weight:600; text-align:center;">✦ Exploring</p>
+      <p align="center" style="font-size:13px; color:#9b59b6; margin:0; text-align:center; line-height:1.6;">
+        Cleaner pipelines, faster APIs,<br/>and better developer ergonomics
+      </p>
+    </td>
+  </tr>
+  <tr><td colspan="2" style="height:14px;"></td></tr>
+  <tr>
+    <td width="50%" valign="top" style="background-color:#EAF6FF; border:2px solid #B0E0E6; border-radius:18px; padding:22px;">
+      <p style="margin:0 0 8px; color:#5BA3D0; font-weight:600; text-align:center;">♪ Stacking</p>
+      <p align="center" style="font-size:13px; color:#4a8bad; margin:0; text-align:center; line-height:1.6;">
+        Node.js · Python · MySQL<br/>Docker · Git · REST
+      </p>
+    </td>
+    <td width="50%" valign="top" style="background-color:#FFF4E0; border:2px solid #FFD8A8; border-radius:18px; padding:22px;">
+      <p style="margin:0 0 8px; color:#E8923A; font-weight:600; text-align:center;">❀ Vibe</p>
+      <p align="center" style="font-size:13px; color:#c98a4b; margin:0; text-align:center; line-height:1.6;">
+        Peace and joy,<br/>future be long
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
